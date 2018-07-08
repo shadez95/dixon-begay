@@ -24,7 +24,7 @@ const App = () => (
             </div>
           </div>
           <div className="App-links">
-            <p className="c-paragraph">contact@dixonbegay.com</p>
+            <p className="c-paragraph"><a href="mailto:contact@dixonbegay.com?body=%0D%0D%0D%0D%0DSent%20from%20dixonbegay.com">contact@dixonbegay.com</a></p>
             <span style={{ 'fontSize': '2em' }}>
               <i className="fab fa-github"></i>
             </span>
