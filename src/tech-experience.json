@@ -1,0 +1,12 @@
+{
+    "languages": ["Javascript", "Python", "Go"],
+    "frameworksLibs": [
+        "React",
+        "Redux",
+        "React Router",
+        "ExpressJS",
+        "Material-UI",
+        "Django"
+    ],
+    "databases": ["MariaDB", "PostgreSQL", "MongoDB"]
+}
