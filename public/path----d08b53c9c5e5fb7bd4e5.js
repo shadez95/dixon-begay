@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{74:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Dixon Begay"}},sitePage:{path:"/dev-404-page/"}},layoutContext:{}}}});
+//# sourceMappingURL=path----d08b53c9c5e5fb7bd4e5.js.map
