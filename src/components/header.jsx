@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import Link from 'gatsby-link';
 import classNames from 'classnames/bind';
 import Tappable from 'react-tappable/lib/Tappable';
+import { OutboundLink } from 'gatsby-plugin-google-analytics';
 
 class Header extends React.Component {
   state = {
@@ -110,7 +111,7 @@ class Header extends React.Component {
                 <div className="navbar-item">
                   <div className="field is-grouped">
                     <p className="control">
-                      <a
+                      <OutboundLink
                         className="bd-tw-button button"
                         target="_blank"
                         rel="noopener noreferrence"
@@ -120,10 +121,10 @@ class Header extends React.Component {
                           <i className="fab fa-twitter" />
                         </span>
                         <span>Twitter</span>
-                      </a>
+                      </OutboundLink>
                     </p>
                     <p className="control">
-                      <a
+                      <OutboundLink
                         className="bd-tw-button button"
                         target="_blank"
                         rel="noopener noreferrence"
@@ -133,7 +134,7 @@ class Header extends React.Component {
                           <i className="fab fa-github" />
                         </span>
                         <span>Github</span>
-                      </a>
+                      </OutboundLink>
                     </p>
                     <p className="control">
                       <a

@@ -1,4 +1,5 @@
 import React from 'react';
+import { OutboundLink } from 'gatsby-plugin-google-analytics';
 
 const paddedDiv = { paddingBottom: '30px' };
 
@@ -27,9 +28,13 @@ const Contact = () => (
               <p className="is-size-6-mobile">
                 DM or tweet me on twitter
                 {' '}
-                <a target="_blank" rel="noopener noreferrence" href="https://twitter.com/shadez95">
+                <OutboundLink
+                  target="_blank"
+                  rel="noopener noreferrence"
+                  href="https://twitter.com/shadez95"
+                >
                   @shadez95
-                </a>
+                </OutboundLink>
               </p>
             </div>
             <br />

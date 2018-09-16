@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import { OutboundLink } from 'gatsby-plugin-google-analytics';
 
 const paddedDiv = { padding: '5px 0' };
 
@@ -39,10 +40,10 @@ const Projects = ({ data }) => {
               <span className="is-size-6-mobile">{project.tech}</span>
             </div>
             <div className="is-size-6-mobile" style={paddedDiv}>
-              <a href={project.link}>
+              <OutboundLink href={project.link}>
                 {project.website && 'View site'}
                 {project.github && 'View on Github'}
-              </a>
+              </OutboundLink>
             </div>
           </div>
         ))}
