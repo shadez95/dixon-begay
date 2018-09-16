@@ -1,0 +1,112 @@
+{
+  "heroTitle": "Full Stack Developer",
+  "heroSubtitle": "I believe in improving people's lives one line of code at a time",
+  "heroTitleAbout": "Hi there!",
+  "heroSubtitleAbout": "I'm a self-taught web developer that has been coding an assortment of things since late 2013. Check out my Github for the latest open source projects I'm working on; and if you would like to know what I'm up to, follow me on twitter.",
+  "languages": [
+    {
+      "id": 1,
+      "name": "Javascript"
+    },
+    {
+      "id": 2,
+      "name": "Python"
+    },
+    {
+      "id": 3,
+      "name": "Go"
+    }
+  ],
+  "frameworksLibs": [
+    {
+      "id": 1,
+      "name": "React"
+    },
+    {
+      "id": 2,
+      "name": "Redux"
+    },
+    {
+      "id": 3,
+      "name": "React Router"
+    },
+    {
+      "id": 4,
+      "name": "ExpressJS"
+    },
+    {
+      "id": 5,
+      "name": "Material-UI"
+    },
+    {
+      "id": 6,
+      "name": "Django"
+    },
+    {
+      "id": 7,
+      "name": "GatsbyJS"
+    }
+  ],
+  "databases": [
+    {
+      "id": 1,
+      "name": "MariaDB"
+    },
+    {
+      "id": 2,
+      "name": "PostgreSQL"
+    },
+    {
+      "id": 3,
+      "name": "MongoDB"
+    }
+  ],
+  "devTools": [
+    {
+      "id": 1,
+      "name": "Git"
+    },
+    {
+      "id": 2,
+      "name": "VS Code"
+    },
+    {
+      "id": 3,
+      "name": "Gitlab"
+    },
+    {
+      "id": 4,
+      "name": "Github"
+    },
+    {
+      "id": 5,
+      "name": "Terminal"
+    },
+    {
+      "id": 6,
+      "name": "Docker"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "71st SOG Website",
+      "description": "Built a simple Django site with Bootstrap 4. Site has been running with very little issues since late 2016.",
+      "link": "https://71stsog.com",
+      "type": "personal project",
+      "website": true,
+      "github": false,
+      "tech": "Django, Bootstrap 4, Owl Carousel"
+    },
+    {
+      "id": 2,
+      "title": "Steve Meisner Website",
+      "description": "Setup and configured a wordpress site for a local real estate agent.",
+      "link": "https://stevemeisnerrealtor.com/",
+      "type": "client project",
+      "website": true,
+      "github": false,
+      "tech": "Wordpress"
+    }
+  ]
+}

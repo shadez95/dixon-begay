@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+// Disable the widescreen breakpoint
+$widescreen-enabled: false;
+
+// Disable the fullhd breakpoint
+$fullhd-enabled: false;
+
+// $text: #93a1a1;
+// $background: #002b36;
+// $body-background-color: #073642;
+$footer-background-color: hsl(0, 0%, 21%);
+// $light: #657b83;
+// $link: #b58900;
+
+@media (max-width: 1087px) {
+  .content {
+    padding: 0 2% 0 2%;
+  }
+}
+
+@import "../../node_modules/bulma/bulma.sass";
+
+hr {
+  background-color: hsl(0, 0%, 21%);
+}
+
+#wrapper {
+  flex: 1 0 auto;
+}
+
+#___gatsby {
+  display: flex;
+  min-height: calc(100vh - #{$navbar-height});
+  flex-direction: column;
+}
