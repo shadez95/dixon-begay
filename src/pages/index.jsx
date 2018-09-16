@@ -26,7 +26,7 @@ const IndexPage = ({ data }) => {
           </div>
         </div>
       </section>
-      <section>
+      <section style={{ padding: '0 24px' }}>
         <div className="container has-text-centered">
           <div className="columns is-centered">
             <div className="column">
@@ -36,7 +36,7 @@ const IndexPage = ({ data }) => {
         </div>
       </section>
       <br />
-      <section>
+      <section style={{ padding: '0 24px' }}>
         <div className="container has-text-centered">
           <div className="columns is-centered">
             <div className="column">

@@ -41,7 +41,7 @@ class Header extends React.Component {
     return (
       <div
         style={{
-          marginBottom: '1.45rem',
+          marginBottom: location === '/' ? 'initial' : '1.45rem',
         }}
       >
         <nav className="navbar is-fixed-top is-dark">
