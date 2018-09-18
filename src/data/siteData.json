@@ -75,6 +75,10 @@
     {
       "id": 7,
       "name": "GatsbyJS"
+    },
+    {
+      "id": 8,
+      "name": "Gin Web Framework"
     }
   ],
   "heroSubtitle": "I believe in improving people's lives one line of code at a time",
@@ -97,7 +101,7 @@
   ],
   "projects": [
     {
-      "description": "Built a simple Django site with Bootstrap 4. Site has been running with very little issues since late 2016.",
+      "description": "Site has been running with very little issues since late 2016. The website was built for handling member applications, event announcements, and group image sharing. This site was built using python, Django, and Bootstrap 4.",
       "github": false,
       "id": 1,
       "link": "https://71stsog.com",
