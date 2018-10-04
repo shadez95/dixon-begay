@@ -1,2 +1,0 @@
-webpackJsonp([68988670908604],{132:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(1),o=n(l),a=function(){return o.default.createElement("div",null,"Technology Stacks")};t.default=a,e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-tech-stacks-jsx-cbde23b10d6a3ea9629d.js.map

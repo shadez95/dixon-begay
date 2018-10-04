@@ -34,5 +34,18 @@ module.exports = {
         cookieDomain: 'dixonbegay.com',
       },
     },
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        name: 'Dixon Begay',
+        short_name: 'Dixon',
+        start_url: '/',
+        background_color: '#fff',
+        theme_color: '#000',
+        display: 'minimal-ui',
+        icon: 'src/data/shadez.jpg', // This path is relative to the root of the site.
+      },
+    },
+    'gatsby-plugin-offline',
   ],
 };

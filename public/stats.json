@@ -5,8 +5,8 @@
       "component---src-pages-projects-jsx-9908670a042e260759ac.js.map"
     ],
     "path---tech": [
-      "path---tech-20f0c8e64bf7da2a4be0.js",
-      "path---tech-20f0c8e64bf7da2a4be0.js.map"
+      "path---tech-6e72ae138a05e63f6e41.js",
+      "path---tech-6e72ae138a05e63f6e41.js.map"
     ],
     "component---src-pages-contact-jsx": [
       "component---src-pages-contact-jsx-dbb1e39a80b035cd36ff.js",
@@ -17,12 +17,16 @@
       "path----d08b53c9c5e5fb7bd4e5.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-1895f1668dcacb69fadb.js",
-      "component---src-layouts-index-jsx-1895f1668dcacb69fadb.js.map"
+      "component---src-layouts-index-jsx-4f9ea21214d194432807.js",
+      "component---src-layouts-index-jsx-4f9ea21214d194432807.js.map"
     ],
     "path---projects": [
-      "path---projects-1f1cc5d98e0793de7d86.js",
-      "path---projects-1f1cc5d98e0793de7d86.js.map"
+      "path---projects-9cfc0bc48b61b8a89e29.js",
+      "path---projects-9cfc0bc48b61b8a89e29.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-pages-tech-jsx": [
       "component---src-pages-tech-jsx-e3e984b8e5e1707030ad.js",
@@ -48,13 +52,17 @@
       "path---contact-a0e39f21c11f6a62c5ab.js",
       "path---contact-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-bfa16827edd95d530e1e.js",
-      "component---src-pages-index-jsx-bfa16827edd95d530e1e.js.map"
+      "component---src-pages-index-jsx-e634459de5fc88c76d5f.js",
+      "component---src-pages-index-jsx-e634459de5fc88c76d5f.js.map"
     ],
     "app": [
-      "app-a1153069f7f86d4e8d21.js",
-      "app-a1153069f7f86d4e8d21.js.map"
+      "app-647c10a12882fb662d0a.js",
+      "app-647c10a12882fb662d0a.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
